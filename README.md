@@ -84,4 +84,4 @@ Final Year B.E. (Artificial Intelligence)
 
 ---
 
-*Built with ❤️ for final internship submission.*
+*Built with ❤️ for  internship submission.*
